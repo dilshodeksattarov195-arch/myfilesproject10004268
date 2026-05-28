@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicevonnect",
+        "uuid": 41391064,
+        "checksum": "drsysm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
